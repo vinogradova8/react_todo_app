@@ -2,6 +2,4 @@ This project is todo application with ability to add, delete and filter todos. Y
 
 Technologies that were used: React, TypeScript, CSS.
 
-Link to the preview - [DEMO LINK](https://vinogradova8.github.io/react_phone_catalog/)
-
-
+Link to the preview - [DEMO LINK](https://vinogradova8.github.io/react_todo_app/)
