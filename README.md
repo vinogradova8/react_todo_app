@@ -3,7 +3,7 @@ This project is todo application with ability to add, delete and filter todos. Y
 Technologies that were used: React, TypeScript, SCSS.
 
 To run the project locally:
-1. Clone the forked repo - select Code -> Local -> HTTPS/SSH and copy the link.
+1. Clone repo - select Code -> Local -> HTTPS/SSH and copy the link.
 2. Run 'git clone your_link'.
 3. Run 'npm install' to install the dependencies.
 4. Run 'npm start'.
